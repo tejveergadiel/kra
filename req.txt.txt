@@ -1,0 +1,3 @@
+streamlit
+ibm-cos-sdk
+python-dotenv
